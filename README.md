@@ -1,9 +1,22 @@
-### Olá! Me chamo João Pedro 👋
+# Olá! Me chamo João Pedro 👋
 
 - 🔭 Trabalhando com front-end
 - 🌱 Estudando HTML, CSS e Javascript
 - 🧑‍💻 Freelancer em front-end
 - 📫 Email: jpalves.dev@outlook.com
+
+#### Front End Progress
+- HTML5 ✅
+- CSS3 ✅
+- JavaScript ✅
+- jQuery
+- Bootstrap
+- React 
+
+#### Back End Progress
+- Firebase
+- Node JS
+- Mongo DB
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Johan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
